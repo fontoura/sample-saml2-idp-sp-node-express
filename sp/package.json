@@ -1,0 +1,17 @@
+{
+  "name": "sample-sp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Felipe Michels Fontoura",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "express-session": "^1.17.3",
+    "saml2-js": "^4.0.1"
+  }
+}
